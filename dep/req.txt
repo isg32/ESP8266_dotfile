@@ -1,0 +1,7 @@
+MFRC522v2
+
+ESPAsyncWebServer
+
+MFRC522
+
+ArduinoJson
